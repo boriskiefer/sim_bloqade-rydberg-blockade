@@ -1,0 +1,10 @@
+# Bloqade Rydberg blockade performance demo
+# Install with:
+#   python -m pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyterlab
+bloqade
