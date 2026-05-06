@@ -365,12 +365,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+--- 
+
+## Acknowledgements
 This material was developed and/or adapted with support from the National
 Science Foundation through the QCAP-NQVL-Pilot and QCAP-NQVL-Design efforts
 under NSF Award Nos. OSI-2410813 and OSI-2531569.
 Any opinions, findings, conclusions, or recommendations expressed in this
 material are those of the author(s) and do not necessarily reflect the views
 of the National Science Foundation.
+
 ---
 
 ## Author
